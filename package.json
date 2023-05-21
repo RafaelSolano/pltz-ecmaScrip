@@ -1,0 +1,23 @@
+{
+  "name": "pltz-ecmascrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelSolano/pltz-ecmaScrip.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Rafael solano <rafaelsolanol007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelSolano/pltz-ecmaScrip/issues"
+  },
+  "homepage": "https://github.com/RafaelSolano/pltz-ecmaScrip#readme"
+}
