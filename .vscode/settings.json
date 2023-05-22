@@ -11,8 +11,8 @@
   "prettier.arrowParens": "avoid",
   "editor.tabSize": 2,
   "editor.codeLensFontFamily": "",
-  "editor.fontSize": 14,
-  "editor.fontFamily": "'Victor Mono', monospace",
+  //"editor.fontSize": 13,
+  //"editor.fontFamily": "'Victor Mono', monospace",
   "editor.fontLigatures": true,
 
 

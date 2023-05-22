@@ -1,5 +1,0 @@
-function* iterate(arra) {
-  // body
-
-}
-
