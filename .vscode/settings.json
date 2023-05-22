@@ -1,5 +1,20 @@
 {
-    "editor.tabSize": 2,
-    "powermode.combo.location": "off",
-    "powermode.presets": "particles"
+  "powermode.combo.location": "off",
+  "powermode.presets": "particles",
+  // cambiar las comillas dobles por simples,
+  "prettier.singleQuote": true,
+  // agregar punto y coma
+  "prettier.semi": true,
+  // agregar espacios al momento de importar una dependencia entre llaves
+  "prettier.bracketSpacing": true,
+  // quitar los parentesis en una arrow function cuando se escribe un solo parametro
+  "prettier.arrowParens": "avoid",
+  "editor.tabSize": 2,
+  "editor.codeLensFontFamily": "",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Victor Mono', monospace",
+  "editor.fontLigatures": true,
+
+
+  
 }

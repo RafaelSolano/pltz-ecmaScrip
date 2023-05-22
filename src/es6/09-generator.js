@@ -1,0 +1,5 @@
+function* iterate(arra) {
+  // body
+
+}
+

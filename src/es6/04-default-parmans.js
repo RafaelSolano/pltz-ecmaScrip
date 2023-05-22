@@ -13,7 +13,7 @@ newUser('Juan', 23, 'ESP') // pasando parametros
 
 //^ Nueva forma de pasar parametros por defecto
 
-function newAdmin (name = 'Antonio', age = 23, country = 'EU') {
+function newAdmin (name =  'Antonio', age = 23, country = 'EU') {
   console.log(`${name} ${age} ${country}`)
 }
 

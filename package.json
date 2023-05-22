@@ -16,8 +16,10 @@
   ],
   "author": "Rafael solano <rafaelsolanol007@gmail.com>",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/RafaelSolano/pltz-ecmaScrip/issues"
+
   },
   "homepage": "https://github.com/RafaelSolano/pltz-ecmaScrip#readme"
 }
