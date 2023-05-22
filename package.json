@@ -19,7 +19,9 @@
   "type": "module",
   "bugs": {
     "url": "https://github.com/RafaelSolano/pltz-ecmaScrip/issues"
-
   },
-  "homepage": "https://github.com/RafaelSolano/pltz-ecmaScrip#readme"
+  "homepage": "https://github.com/RafaelSolano/pltz-ecmaScrip#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }

@@ -10,6 +10,7 @@ try {
 }
 
 //Forma nueva de hacerlo personalizado
+//optional catch binding
 try {
   anotehrfn();
 } catch {

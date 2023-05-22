@@ -1,11 +1,16 @@
-//declarando un a clase se usa mayuscula
+
+/* -------------------------------------------------------------------------- */
+//*                              Metodos privados                              */
+/* -------------------------------------------------------------------------- */
 
 class User {
+  
   //metodos
   greating() {
     return ' Hello';
   }
 }
+
 //instancia de la clase
 const rasl = new User();
 console.log(rasl.greating());
@@ -19,6 +24,7 @@ class User2 {
   constructor() {
     console.log('Nueva instancia d enuevo usuario');
   }
+  
   //metodo saludo
   greating() {
     return 'hello';
@@ -33,7 +39,7 @@ class User3 {
     this.name = name;
   }
   //metodos
-  speak() {
+  #speak() {
     return 'Hello';
   }
   greating() {
@@ -52,16 +58,16 @@ class user4 {
     this.name = name;
     this.age = age;
   }
-  speak() {
+  #speak() {
     return 'hello';
   }
   greating() {
     return `${this.speak()} ${this.name}`;
   }
-  get uAge() {
+  get #uAge() {
     return this.age;
   }
-  set uAge(age) {
+  set #uAge(age) {
     this.age = age;
   }
 }
